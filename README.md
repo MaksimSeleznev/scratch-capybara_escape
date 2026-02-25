@@ -14,3 +14,7 @@ Collect 5 apples to unlock the door and escape the maze.
 - Base maze layout
 - Player sprite
 - Apple sprites
+
+## v0.1
+- Implemented player movement
+- Added wall collision detection
