@@ -23,3 +23,8 @@ Collect 5 apples to unlock the door and escape the maze.
 - Implemented apple collection
 - Added score tracking system
 - Updated gameplay screenshots
+
+## v0.3
+- Added winning condition
+- Added final scene 
+- Updated gameplay screenshots
